@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Github](https://github.com/kriz-falcasantos/fm_qr-code-component)
-- Live Site URL: [Netlify](https://fmkriz-qrcode-component.netlify.app)
+- Solution URL: [https://github.com/kriz-falcasantos/fm_qr-code-component](https://github.com/kriz-falcasantos/fm_qr-code-component)
+- Live Site URL: [https://fmkriz-qrcode-component.netlify.app](https://fmkriz-qrcode-component.netlify.app)
 
 ### Built with
 
