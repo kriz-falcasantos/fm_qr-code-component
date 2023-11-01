@@ -5,5 +5,7 @@
 }
 
 body {
+  height: 1005;
   background-color: hsl(212, 45%, 89%);
+  margin: 0;
 }
